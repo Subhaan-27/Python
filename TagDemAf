@@ -1,4 +1,4 @@
 from sense_hat import SenseHat
 sense = SenseHat()
 while True:
-  Print("Tag Dem Af")
+  print("Tag Dem Af")
